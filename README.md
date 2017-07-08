@@ -1,5 +1,5 @@
 # Description
-This tool is used to report any configuration changes on network devices to administrators via email. It will point out the differences of the configuration on the device before and after change, so we can easily track who is doing what on which device.
+This tool is used to report any configuration changes on network devices to administrators via email. It will point out the differences of the configuration before and after change, so we can easily track who is doing what on which device.
 
 # Installation
 Install the following python modules:
