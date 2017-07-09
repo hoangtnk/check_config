@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 #
 # Checking config change on important devices (core/distributions) periodically (using crontab)
